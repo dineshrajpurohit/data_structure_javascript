@@ -4,11 +4,11 @@
 <span class="comments">// Try the following on the console</span><br/>
 
 <span class="comments">// Creating a New List</span><br/>
-var newList = new DS.LinkedList(); <br/><br/>
+var newList = new DS.LinkedList();
 
 <span class="comments">// Insert Nodes into the new LinkedList (inserted in the end of the list)</span><br/>
 newList.inserNode("Node 1");<br/>
-newList.insertNode("Node 2");<br/><br/>
+newList.insertNode("Node 2");<br/>
 
 <span class="comments">// Insert Node on specific location (index)</span><br/>
 newList.insertAfter("Node 3", 1);<br/>
