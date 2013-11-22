@@ -1,7 +1,7 @@
 <h3>Data Structure implementation using Javascript</h3>
 
 <h4>Singly Linked List</h4>
-<span class="comments">// Try the following on the console</span><br/><br/>
+<span class="comments">// Try the following on the console</span><br/>
 
 <span class="comments">// Creating a New List</span><br/>
 var newList = new DS.LinkedList(); <br/><br/>
