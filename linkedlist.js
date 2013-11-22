@@ -1,5 +1,5 @@
 /****************************************************************
-* Linked list implementation (Node as Objects) using javascript
+* Singly Linked list implementation (Node as Objects) using javascript
 * 
 * - Dinesh Purohit
 *****************************************************************/
