@@ -15,10 +15,10 @@ newList.insertAfter("Node 3", 1);<br/>
 newList.insertAfter("Node 4", 20); <span class="comments">// if the index is out of bound it inserts in the end of the list</span><br/><br/>
 
 <span class="comments">//Remove a node from the list</span><br/>
-newList.removeNode("Node 2");<br/><br/>
+newList.removeNode("Node 2");
 
 <span class="comments">// Print all the nodes in the Linked List</span><br/>
-newList.printList();<br/><br/>
+newList.printList();
 
 <span class="comments">// You can also cascade the operations of inserting and printing</span><br/>
 newList.insertNode("Node 5").printList();<br/>
