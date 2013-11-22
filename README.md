@@ -1,4 +1,4 @@
-<h1>Data Structure implementation using Javascript</h1>
+<h3>Data Structure implementation using Javascript</h3>
 
 <h4> Linked List</h4>
 
