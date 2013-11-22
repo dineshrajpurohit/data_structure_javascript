@@ -12,7 +12,7 @@ newList.insertNode("Node 2");<br/>
 
 <span class="comments">// Insert Node on specific location (index)</span><br/>
 newList.insertAfter("Node 3", 1);<br/>
-newList.insertAfter("Node 4", 20); <span class="comments">// if the index is out of bound it inserts in the end of the list</span><br/><br/>
+newList.insertAfter("Node 4", 20); <span class="comments">// if the index is out of bound it inserts in the end of the list</span>
 
 <span class="comments">//Remove a node from the list</span><br/>
 newList.removeNode("Node 2");
